@@ -1,8 +1,8 @@
 ###########################################################
-### CHFF Assignment 2 README File			###
+### CHFF Assignment 2 README File			                  ###
 ###########################################################
-### Name:	Jayatirtha Harivittal Mangalvedekar	###
-### Roll No.:	ME24S009				###
+### Name:	Jayatirtha Harivittal Mangalvedekar	          ###
+### Roll No.:	ME24S009				                          ###
 ###########################################################
 
 This folder contains 3 folders, two input and one output. One of the input folders contains all input files with code in txt format while the other contains code in .cpp and and .py formats. The output folder contains all the plots asked in the Assignment.
